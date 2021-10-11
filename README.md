@@ -1,4 +1,4 @@
-### Olá Pessoal, Eu sou o Braulio Valdir. Hey Guys, I'm Braulio Valdir 🖖
+### Olá Pessoal, Eu sou o Bráulio Valdir. Hey Guys, I'm Bráulio Valdir 🖖
 ##
 
 <div align="center">
@@ -9,7 +9,7 @@
 
 ##
 
-<div style="display: inline_block"><br>
+<div style="display: inline"><br>
   <img align="center" alt="BV-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="BV-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="BV-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
